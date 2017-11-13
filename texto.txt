@@ -1,0 +1,3 @@
+#!/bin/bash
+echo "texto qualquer"
+echo "novo texto"
